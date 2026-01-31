@@ -23,7 +23,7 @@ Un système complet de détection de SMS spam comparant des modèles classiques 
 | Naive Bayes | ~0.96 | ~0.96 |
 
 ## 📁 Structure du projet
-
+`````
 .
 │   .gitignore                  # Fichiers et dossiers ignorés par Git
 │   requirements.txt            # Dépendances Python du projet
@@ -39,7 +39,7 @@ Un système complet de détection de SMS spam comparant des modèles classiques 
 │       sms_confusion_matrix.png    # Matrice de confusion pour le meilleur modèle
 │       sms_eda.png                 # Analyse exploratoire des données
 │       sms_model_comparison.png    # Comparaison graphique des performances
-
+`````
 ### Notes
 
 - Les dossiers `data/` et `bert_sms_spam/` sont **ignorés par Git** car ils contiennent des fichiers volumineux (datasets, modèles entraînés).  
