@@ -20,7 +20,7 @@ Un système complet de détection de SMS spam comparant des modèles classiques 
 | BERT | ~0.99 | ~0.99 |
 | SVM | ~0.98 | ~0.98 |
 | Logistic Regression | ~0.97 | ~0.97 |
-| Naive Bayes | ~0.96 | ~0.96 |
+| Naive Bayes | ~0.97 | ~0.97 |
 
 ## 📁 Structure du projet
 `````
